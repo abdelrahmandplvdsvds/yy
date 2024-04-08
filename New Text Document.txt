@@ -1,0 +1,55 @@
+
+
+
+
+        <div class="col-12 col-sm-6 col-md-3 col-lg-3">
+            <div class="card" style="width: 14rem; margin: 50px 0;">
+            <img src="lenovo-laptop-amd-r5---8gb---512gb---14.0-fhd-graphite-grey-82hu00gted-1.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+            <h5 class="card-title">lenovo laptop flex</h5>
+            <p class="card-text">AMD r5 <br>ram8 ddr3<br>ssd512</p>
+            <span style="color: red;">price:12000ج.م</span>
+            <br>
+            <br>
+            <a href="#" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#sec">buy <i class="fa-solid fa-cart-shopping"></i></a>
+            </div>
+            </div>
+        </div>
+
+
+
+
+
+        <div class="col-12 col-sm-6 col-md-3 col-lg-3">
+            <div class="card" style="width: 14rem; margin: 50px 0;">
+            <img src="dell-laptop-i7-16gb_512-ssd-rtx3060-15.6--5520-g15-e001-1.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+            <h5 class="card-title">dell laptop E001</h5>
+            <p class="card-text">core i7 4g <br>ram8 ddr3<br>ssd256</p>
+            <span style="color: red;">price:9000ج.م</span>
+            <br>
+            <br>
+            <a href="#" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">buy <i class="fa-solid fa-cart-shopping"></i></a>
+            </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="col-12 col-sm-6 col-md-3 col-lg-3">
+            <div class="card" style="width: 14rem; margin: 50px 0;">
+            <img src="dell-laptop-i7-16gb_512-ssd-rtx3060-15.6--5520-g15-e001-1.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+            <h5 class="card-title">dell laptop E001</h5>
+            <p class="card-text">core i7 4g <br>ram8 ddr3<br>ssd256</p>
+            <span style="color: red;">price:9000ج.م</span>
+            <br>
+            <br>
+            <a href="#" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">buy <i class="fa-solid fa-cart-shopping"></i></a>
+            </div>
+            </div>
+        </div>
+    </div>
+
+</div>
